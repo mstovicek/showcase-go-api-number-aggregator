@@ -1,0 +1,12 @@
+hash: 43bbcef430a893d2a7a3aeb676c29979459ea76127b65ce94b3558a22bbed303
+updated: 2017-08-30T13:21:04.50793439+02:00
+imports:
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: bcd8bc72b08df0f70df986b97f95590779502d31
+- name: github.com/jessevdk/go-flags
+  version: 48cf8722c3375517aba351d1f7577c40663a4407
+- name: github.com/Sirupsen/logrus
+  version: fe6f2b03125e4fcafb21406381010e363a072c80
+testImports: []

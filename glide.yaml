@@ -1,0 +1,5 @@
+package: github.com/mstovicek/showcase-go-api-number-aggregator
+import:
+- package: github.com/Sirupsen/logrus
+- package: github.com/gorilla/mux
+- package: github.com/jessevdk/go-flags
